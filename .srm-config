@@ -1,0 +1,8 @@
+
+EMAIL="you@example.com" 	# who gets the emails
+MONITORNAME="mynice-remote"	# name of monitoring host
+HOST="1.2.3.4"			# what host should I monitor
+HOSTN="mynicehost"		# friendly name of the host
+STATEFILE="/var/run/.srm-state"	# where should the state be recorded
+STATE="UP" 			# initial state
+
